@@ -24,4 +24,4 @@ def test_is_password_strong(password, expected):
 
 @pytest.mark.skip(reason="Test is not ready yet")
 def test_password_diversity():
-    pass
+    pass #
