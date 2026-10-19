@@ -7,4 +7,4 @@ def is_even(number: int) -> bool:
 
 
 def get_full_name(first_name: str, last_name: str) -> str:
-    return f"{first_name} {last_name}".strip()
+    return f"{first_name} {last_name}".strip() #
