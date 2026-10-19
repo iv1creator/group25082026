@@ -61,4 +61,4 @@ def test_get_full_name_single_char():
 
 
 def test_get_full_name_another_valid():
-    assert get_full_name("John", "Doe") == "John Doe"
+    assert get_full_name("John", "Doe") == "John Doe" #
